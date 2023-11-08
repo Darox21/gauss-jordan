@@ -1,4 +1,5 @@
 # Gauss-Jordan Elimination
+[![License](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)](https://github.com/Darox21/gauss-jordan#LICENSE)
 
 An implementation in C for the Gauss-Jordan Elimination algorithm for matrices of **fractions**.
 
